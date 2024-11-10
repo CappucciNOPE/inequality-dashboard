@@ -1,0 +1,252 @@
+[
+  {
+    "state": "Alabama",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 23.9,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 41
+  },
+  {
+    "state": "Alaska",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 12.7,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 49
+  },
+  {
+    "state": "Arizona",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 23.4,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 39
+  },
+  {
+    "state": "Arkansas",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 23.1,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 42
+  },
+  {
+    "state": "California",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 28.4,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 42
+  },
+  {
+    "state": "Colorado",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 16.6,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 32
+  },
+  {
+    "state": "Connecticut",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 17.2,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 36
+  },
+  {
+    "state": "Delaware",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 20.3,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 47
+  },
+  {
+    "state": "Florida",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 23.7,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 29
+  },
+  {
+    "state": "Georgia",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 23.6,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 39
+  },
+  {
+    "state": "Hawaii",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 15.9,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 36
+  },
+  {
+    "state": "Idaho",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 16.4,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 39
+  },
+  {
+    "state": "Illinois",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 20.4,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 38
+  },
+  {
+    "state": "Indiana",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 18.7,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 37
+  },
+  {
+    "state": "Iowa",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 14.9,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 36
+  },
+  {
+    "state": "Kansas",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 16.9,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 40
+  },
+  {
+    "state": "Kentucky",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 21.9,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 38
+  },
+  {
+    "state": "Louisiana",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 27.1,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 43
+  },
+  {
+    "state": "Maine",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 13.4,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 40
+  },
+  {
+    "state": "Maryland",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 20,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 44
+  },
+  {
+    "state": "Massachusetts",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 17.3,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 30
+  },
+  {
+    "state": "Michigan",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 17.6,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 42
+  },
+  {
+    "state": "Minnesota",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 13.1,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 39
+  },
+  {
+    "state": "Mississippi",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 28,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 37
+  },
+  {
+    "state": "Missouri",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 18.9,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 40
+  },
+  {
+    "state": "Montana",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 13.1,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 35
+  },
+  {
+    "state": "Nebraska",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 16.4,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 35
+  },
+  {
+    "state": "Nevada",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 15.3,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 43
+  },
+  {
+    "state": "New Hampshire",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 11.5,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 33
+  },
+  {
+    "state": "New Jersey",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 20.7,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 33
+  },
+  {
+    "state": "New Mexico",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 29.1,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 52
+  },
+  {
+    "state": "New York",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 24.4,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 42
+  },
+  {
+    "state": "North Carolina",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 21.3,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 39
+  },
+  {
+    "state": "North Dakota",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 13.4,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 35
+  },
+  {
+    "state": "Ohio",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 17.7,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 35
+  },
+  {
+    "state": "Oklahoma",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 20.1,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 45
+  },
+  {
+    "state": "Oregon",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 16.8,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 44
+  },
+  {
+    "state": "Pennsylvania",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 18.1,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 36
+  },
+  {
+    "state": "Rhode Island",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 20.4,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 38
+  },
+  {
+    "state": "South Carolina",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 22.4,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 39
+  },
+  {
+    "state": "South Dakota",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 14.9,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 35
+  },
+  {
+    "state": "Tennessee",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 21.7,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 41
+  },
+  {
+    "state": "Texas",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 28.2,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 42
+  },
+  {
+    "state": "Utah",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 14.5,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 33
+  },
+  {
+    "state": "Vermont",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 12.8,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 38
+  },
+  {
+    "state": "Virginia",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 18.8,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 40
+  },
+  {
+    "state": "Washington",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 16.1,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 39
+  },
+  {
+    "state": "West Virginia",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 20.9,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 48
+  },
+  {
+    "state": "Wisconsin",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 15.3,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 37
+  },
+  {
+    "state": "Wyoming",
+    "LiteracyRatesPercofPopulationWithLowLiteracy": 13.6,
+    "LiteracyRatesPercof4thGradersBelowBasicReadingLevel": 29
+  }
+]
